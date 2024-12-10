@@ -1,0 +1,2 @@
+# plantilla
+GA10-220501096-AA6-EV01
